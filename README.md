@@ -54,7 +54,7 @@
 
 ---
 
-<a href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/" target="_blank">
+<a target="_blank" href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/">
 <div align="center">
 
 ![spectra-program-management-side-500x380](https://github.com/devsirius44/devsirius44/blob/main/projects_low.jpg)
