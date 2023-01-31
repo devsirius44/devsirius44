@@ -53,13 +53,7 @@
 </td></tr></table>
 
 ---
-Live Demo: [demo](https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/){target="_blank"} 
-Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
 
-Live Demo: [demo](https://example.com){target="_blank"} //markdown
-
-Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
-<a target="_blank" href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/">sdf</a>
 <a target="_blank" href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/">
 <div align="center">
 
@@ -67,12 +61,6 @@ Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
   
 </div>
 </a>  
-Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
 
-Live Demo: [demo](https://example.com){target="_blank"} //markdown
-
-Live Demo: <a href="https://example.com" target="_blank">demo</a> //html    
-    
-    
     
    
