@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-![spectra-program-management-side-1024x576](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/devsirius_logo.jpg)
+![spectra-program-management-side-1024x576](https://github.com/devsirius44/devsirius44/blob/main/devsirius_logo.jpg)
 
 
 <!-- <div id="badges" align="center">
