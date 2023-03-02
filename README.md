@@ -64,9 +64,9 @@
 </div>
 </a>  
 
-<a target="_blank" href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/">
+<a target="_blank" href="https://devsirius44.netlify.app/">
 <div align="center">
-> DEV SIRIUS DEVELOPER WEBSITE
+ DEV SIRIUS DEVELOPER WEBSITE
 </div>
 </a>
     
