@@ -66,7 +66,7 @@
 
 <a target="_blank" href="https://devsirius44.netlify.app/">
 <div align="center">
- DEV SIRIUS DEVELOPER WEBSITE
+  <span style="font-weight: bold"> DEV SIRIUS DEVELOPER WEBSITE </span>
 </div>
 </a>
     
