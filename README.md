@@ -67,7 +67,7 @@
 Contact me to discuss more.
   
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="800" height="620" />
 </div>
 
 <a target="_blank" href="https://devsirius44.netlify.app/">
