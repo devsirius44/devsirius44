@@ -68,6 +68,11 @@ Contact me to discuss more.
   
 <div>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="800" height="620" />
+  <a target="_blank" href="https://devsirius44.netlify.app/">
+<div align="center">
+  <span style="font-weight: bold"> DEV SIRIUS DEVELOPER WEBSITE </span>
+</div>
+</a>
 </div>
 
 <a target="_blank" href="https://devsirius44.netlify.app/">
