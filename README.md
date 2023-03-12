@@ -72,9 +72,7 @@
   <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="300" height="160" />
 </div>
 <a target="_blank" href="https://devsirius44.netlify.app/">
-#<div align="center">
-#  <span style="font-weight: bold"> DEV SIRIUS DEVELOPER WEBSITE </span>
-#</div>
+<!-- <div align="center"> <span style="font-weight: bold"> DEV SIRIUS DEVELOPER WEBSITE </span> </div>  -->
 </a>
     
    
