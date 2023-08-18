@@ -16,7 +16,7 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
-> I am a proficient `full stack developer` with 7 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.<br />My Secondary skill is `mobile app` development.<br />I am a Highly motivated hybrid mobile app developer with over 5 plus years of experience.<br />While working as a Freelancer and in MOOD MEDIA company, I built `30 mobils apps` in the hybrid mode using react-native and flutter and deployed them to app stores.
+> I am a proficient `full stack developer` with + 10 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.<br />My Secondary skill is `mobile app` development.<br />I am a Highly motivated hybrid mobile app developer with over 5 plus years of experience.<br />While working as a Freelancer and in MOOD MEDIA company, I built `30 mobils apps` in the hybrid mode using react-native and flutter and deployed them to app stores.
 
 
 
