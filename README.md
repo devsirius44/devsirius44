@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=I+am+a+full+stack+%26+hybrid+mobile+app+developer+with+7+years+of+hands-on+experience.;+MERN%2C+RN%2C+FLUTTER+are+my+major+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=I+am+a+full+stack+%26+hybrid+mobile+app+developer+with+8+years+of+hands-on+experience.;+MERN%2C+RN%2C+FLUTTER+are+my+major+skills)](https://git.io/typing-svg)
 
 ![spectra-program-management-side-1024x576](https://github.com/devsirius44/devsirius44/blob/main/devsirius_logo.jpg)
 
